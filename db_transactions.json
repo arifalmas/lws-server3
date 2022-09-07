@@ -1,0 +1,124 @@
+{ 
+  "transactions":[ 
+    {
+      "name": "family expanse",
+      "type": "expense",
+      "amount": "7000",
+      "id": 2
+    },
+    {
+      "name": "Salary from google",
+      "type": "income",
+      "amount": "20000",
+      "id": 4
+    },
+    {
+      "name": "upori income",
+      "type": "income",
+      "amount": "30000",
+      "id": 5
+    },
+    {
+      "name": "pendrive",
+      "type": "expense",
+      "amount": "1000",
+      "id": 6
+    },
+    {
+      "name": "Dress",
+      "type": "expense",
+      "amount": "5000",
+      "id": 8
+    },
+    {
+      "name": "Father's salary",
+      "type": "income",
+      "amount": "20000",
+      "id": 9
+    },
+    {
+      "name": "test1",
+      "type": "expense",
+      "amount": "5000",
+      "id": 10
+    },
+    {
+      "name": "test2",
+      "type": "expense",
+      "amount": "20000",
+      "id": 11
+    },
+    {
+      "name": "test3",
+      "type": "income",
+      "amount": "5000",
+      "id": 12
+    },
+    {
+      "name": "test",
+      "type": "income",
+      "amount": "12345",
+      "id": 14
+    },
+    {
+      "name": "test6",
+      "type": "income",
+      "amount": "2345",
+      "id": 15
+    },
+    {
+      "name": "test",
+      "type": "income",
+      "amount": "12345",
+      "id": 16
+    },
+    {
+      "name": "test7",
+      "type": "income",
+      "amount": "1234",
+      "id": 17
+    },
+    {
+      "name": "test",
+      "type": "income",
+      "amount": "123145",
+      "id": 18
+    },
+    {
+      "name": "test",
+      "type": "income",
+      "amount": "1234",
+      "id": 19
+    },
+    {
+      "name": "test",
+      "type": "income",
+      "amount": "31234",
+      "id": 20
+    },
+    {
+      "name": "test",
+      "type": "income",
+      "amount": "41234",
+      "id": 21
+    },
+    {
+      "name": "test",
+      "type": "expense",
+      "amount": "51234",
+      "id": 22
+    },
+    {
+      "name": "test",
+      "type": "income",
+      "amount": "61245",
+      "id": 23
+    },
+    {
+      "name": "test12",
+      "type": "income",
+      "amount": "7500",
+      "id": 24
+    }
+  ]
+}
